@@ -3,7 +3,7 @@
  * https://github.com/facebook/react-native
  *
  * @format
- */
+ */n
 
 // @ts-ignore
 import React, { useEffect } from 'react';
