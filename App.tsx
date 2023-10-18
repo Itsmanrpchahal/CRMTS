@@ -16,8 +16,7 @@ import { QueryClientProvider, QueryClient } from 'react-query';
 import { ThemeProvider, useTheme } from 'styled-components';
 import { navigationTheme } from './src/theme/theme';
 import Routes from './src/navigation/Routes';
-import { LogBox, PermissionsAndroid } from 'react-native';
-import ModalManager from './src/store/global_modal/manager';
+import { LogBox, PermissionsAndroid } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 
@@ -50,7 +49,7 @@ export default function App() {
           <QueryClientProvider client={queryClient}>
             <ThemeProvider theme={navigationTheme.light}>
               <Routes scheme={navigationTheme.light} />
-              <ModalManager />
+             
             </ThemeProvider>
           </QueryClientProvider>
         </PersistGate>
