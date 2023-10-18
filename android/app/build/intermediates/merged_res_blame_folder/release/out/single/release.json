@@ -1,0 +1,2042 @@
+[
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_callblue_callblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_callblue_callblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_image.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_image.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_surf_surf.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_surf_surf.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_arrowbtn_arrowbtn.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_arrowbtn_arrowbtn.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_recents_recents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_recents_recents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_bluetag_bluetag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_bluetag_bluetag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_tags_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_tags_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_code.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_code.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_arrowbtn_arrowbtn.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_arrowbtn_arrowbtn.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_redo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_redo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_strikethrough.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_strikethrough.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_dochome_doc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_dochome_doc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_play_play.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_play_play.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_datecalender_datecalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_datecalender_datecalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_pencil_pencil.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_pencil_pencil.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_table.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_table.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_callblue_callblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_callblue_callblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_drafts_drafts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_drafts_drafts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_telephone_telephone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_telephone_telephone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_updown_updown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_updown_updown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_tickcircle_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_tickcircle_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_fontsize.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_fontsize.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_line.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_line.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_agents_agents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_agents_agents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_addgray_addgray.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_addgray_addgray.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_bold.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_bold.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_justify_left.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_justify_left.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_tags_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_tags_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_opportunities_opportunities.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_opportunities_opportunities.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_dialgreen_dialgreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_dialgreen_dialgreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_google_google.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_google_google.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_leftright_leftright.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_leftright_leftright.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_subscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_subscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_notes_notes.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_notes_notes.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_tags_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_tags_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_alarm_alarm.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_alarm_alarm.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rocketmoney_rocketmoney.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rocketmoney_rocketmoney.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_underline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_underline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_play_play.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_play_play.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_strikethrough.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_strikethrough.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_keyboard.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_keyboard.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_building_building.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_building_building.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_calenderminus_calenderminus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_calenderminus_calenderminus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_dochome_doc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_dochome_doc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_backspace_backspace.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_backspace_backspace.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_plus_plus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_plus_plus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_weekcalender_weekcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_weekcalender_weekcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_leftright_leftright.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_leftright_leftright.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_thumbsup_thumbsup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_thumbsup_thumbsup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_plus_plus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_plus_plus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_folder_folder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_folder_folder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_noch_nochnew.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_noch_nochnew.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_users_users.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_users_users.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_notes_notes.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_notes_notes.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_attachment_attachment.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_attachment_attachment.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_trash_trash.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_trash_trash.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_checkbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_checkbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_documentup_documentup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_documentup_documentup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_calender_calender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_calender_calender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_telephone_telephone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_telephone_telephone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_transaction_transaction.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_transaction_transaction.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_trash_trash.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_trash_trash.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_home_home.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_home_home.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_checkbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_checkbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_weekcalender_weekcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_weekcalender_weekcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_messageicon_messageicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_messageicon_messageicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_thumbsup_thumbsup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_thumbsup_thumbsup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_taxicon_taxicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_taxicon_taxicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_users_users.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_users_users.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_surf_surf.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_surf_surf.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_grommet_grommet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_grommet_grommet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_texttemplate_texttemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_texttemplate_texttemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_timeline_timeline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_timeline_timeline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_base_base.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_base_base.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_justify_right.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_justify_right.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_table.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_table.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_calender_calender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_calender_calender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_tickshadow_tickshadow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_tickshadow_tickshadow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_mic_mic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_mic_mic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_edit_edit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_edit_edit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_notificationwhite_notificationwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_notificationwhite_notificationwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_retalors_retalors.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_retalors_retalors.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_newbed_newbed.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_newbed_newbed.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rocketup_rocketup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rocketup_rocketup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_notes_notes.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_notes_notes.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_base_base.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_base_base.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_tickshadow_tickshadow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_tickshadow_tickshadow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_voicemail_voicemail.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_voicemail_voicemail.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_messgblue_messgblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_messgblue_messgblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_datecalender_datecalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_datecalender_datecalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_usersround_usersround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_usersround_usersround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_chain_chain.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_chain_chain.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_pencilborder_pencilborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_pencilborder_pencilborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_selfsourced_selfsourced.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_selfsourced_selfsourced.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_calender_calender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_calender_calender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_notificationwhite_notificationwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_notificationwhite_notificationwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_chain_chain.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_chain_chain.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_add_add.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_add_add.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_replyarrow_replyarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_replyarrow_replyarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_vediogreen_vediogreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_vediogreen_vediogreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_uncheck_uncheck.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_uncheck_uncheck.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_image.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_image.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_forwardarrow_forwardarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_forwardarrow_forwardarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_send_send.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_send_send.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_mailblack_mailblack.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_mailblack_mailblack.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_dialgreen_dialgreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_dialgreen_dialgreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_strikethrough.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_strikethrough.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_search_search.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_search_search.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_marketing_marketing.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_marketing_marketing.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_pulse_pulse.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_pulse_pulse.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_plus_plus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_plus_plus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_justify_full.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_justify_full.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_penciledit_penciledit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_penciledit_penciledit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_chattab_chattab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_chattab_chattab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_superscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_superscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_deletered_deletered.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_deletered_deletered.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_base_base.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_base_base.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_vediogreen_vediogreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_vediogreen_vediogreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_speaker_speaker.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_speaker_speaker.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_videoround_videoround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_videoround_videoround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_adduser_adduser.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_adduser_adduser.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_forwardarrow_forwardarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_forwardarrow_forwardarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_eyeglass_eyeglass.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_eyeglass_eyeglass.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_drafts_drafts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_drafts_drafts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_edit_edit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_edit_edit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_superscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_superscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_speaker_speaker.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_speaker_speaker.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_emailtemplate_emailtemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_emailtemplate_emailtemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_forms_forms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_forms_forms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_callcenter_callcenter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_callcenter_callcenter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_dropdown_dropdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_dropdown_dropdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_taxdoc_taxdoc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_taxdoc_taxdoc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_replyallarrow_replyallarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_replyallarrow_replyallarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_rocketround_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_rocketround_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_filter_filter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_filter_filter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_code.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_code.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_arrowdown_arrowdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_arrowdown_arrowdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_emailopen_emailopen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_emailopen_emailopen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_forms_forms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_forms_forms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_landline_landline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_landline_landline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_filter_filter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_filter_filter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_documentup_documentup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_documentup_documentup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_newbed_newbed.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_newbed_newbed.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_calenderproperty_calenderproperty.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_calenderproperty_calenderproperty.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_hoas_hoas.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_hoas_hoas.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_taxdoc_taxdoc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_taxdoc_taxdoc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_hoas_hoas.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_hoas_hoas.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_ul.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_ul.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_dripcampaign_dripcampaign.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_dripcampaign_dripcampaign.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_forms_forms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_forms_forms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_menuicon_menuicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_menuicon_menuicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_leftright_leftright.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_leftright_leftright.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_justify_center.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_justify_center.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_play_play.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_play_play.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_forwardarrow_forwardarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_forwardarrow_forwardarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_table.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_table.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_arrowdownborder_arrowdownborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_arrowdownborder_arrowdownborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_arrowbtn_arrowbtn.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_arrowbtn_arrowbtn.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_drafts_drafts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_drafts_drafts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_wave_wave.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_wave_wave.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_tickcircle_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_tickcircle_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_taxicon_taxicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_taxicon_taxicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_justify_left.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_justify_left.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_sms_sms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_sms_sms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_redo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_redo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_indent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_indent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_profilepic_profilepic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_profilepic_profilepic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_contacts_contacts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_contacts_contacts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_usersround_usersround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_usersround_usersround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_penciledit_penciledit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_penciledit_penciledit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_calenderproperty_calenderproperty.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_calenderproperty_calenderproperty.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rookie_rookie.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rookie_rookie.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_message_message.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_message_message.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_monthcalender_monthcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_monthcalender_monthcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_replyallarrow_replyallarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_replyallarrow_replyallarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_dripcampaign_dripcampaign.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_dripcampaign_dripcampaign.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rookiealone_rookiealone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rookiealone_rookiealone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_mic_mic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_mic_mic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_arrowdown_arrowdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_arrowdown_arrowdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_sms_sms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_sms_sms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_emailopen_emailopen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_emailopen_emailopen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_transactiondesk_transactiondesk.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_transactiondesk_transactiondesk.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_calendarwhite_calendarwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_calendarwhite_calendarwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_phonetab_phonetab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_phonetab_phonetab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_setting_setting.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_setting_setting.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_users_users.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_users_users.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_edit_edit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_edit_edit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_sendhorizontal_sendhorizotal.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_sendhorizontal_sendhorizotal.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_ol.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_ol.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_add_add.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_add_add.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_landline_landline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_landline_landline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_building_building.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_building_building.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_keypadicon_keypadicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_keypadicon_keypadicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_code.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_code.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_clock_clock.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_clock_clock.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_dollarhome_dollarhome.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_dollarhome_dollarhome.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_arrowdownborder_arrowdownborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_arrowdownborder_arrowdownborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_bath_bath.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_bath_bath.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_properties_properties.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_properties_properties.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_keypadicon_keypadicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_keypadicon_keypadicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_google_google.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_google_google.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_subscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_subscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_monthcalender_monthcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_monthcalender_monthcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_folder_folder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_folder_folder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_line.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_line.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_dialgreen_dialgreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_dialgreen_dialgreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_pencil_pencil.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_pencil_pencil.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_search_search.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_search_search.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_setting_setting.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_setting_setting.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_phonetab_phonetab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_phonetab_phonetab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_voicemail_voicemail.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_voicemail_voicemail.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_marketing_marketing.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_marketing_marketing.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_italic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_italic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_ul.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_ul.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_rookie_rookie.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_rookie_rookie.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_marketing_marketing.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_marketing_marketing.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_updown_updown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_updown_updown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_selfsourced_selfsourced.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_selfsourced_selfsourced.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_dripcampaign_dripcampaign.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_dripcampaign_dripcampaign.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_clock_clock.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_clock_clock.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_tag_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_tag_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_message_message.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_message_message.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_measuringtape_measuringtape.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_measuringtape_measuringtape.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_calendarwhite_calendarwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_calendarwhite_calendarwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_grommet_grommet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_grommet_grommet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_sendhorizontal_sendhorizotal.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_sendhorizontal_sendhorizotal.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_transaction_transaction.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_transaction_transaction.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_wave_wave.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_wave_wave.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_superscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_superscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_info_info.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_info_info.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_poweroff_poweroff.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_poweroff_poweroff.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_grommet_grommet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_grommet_grommet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_taxicon_taxicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_taxicon_taxicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_indent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_indent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_attachment_attachment.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_attachment_attachment.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_downcircle_downcircle.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_downcircle_downcircle.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_texttemplate_texttemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_texttemplate_texttemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_poweroff_poweroff.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_poweroff_poweroff.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_measuringtape_measuringtape.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_measuringtape_measuringtape.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_remove_format.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_remove_format.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_close_close.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_close_close.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_profilepic_profilepic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_profilepic_profilepic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_tag_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_tag_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_agents_agents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_agents_agents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_undo_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_undo_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rocketround_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rocketround_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_checkbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_checkbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_transaction_transaction.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_transaction_transaction.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_messageicon_messageicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_messageicon_messageicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_arrowdown_arrowdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_arrowdown_arrowdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_google_google.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_google_google.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_bath_bath.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_bath_bath.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_chattab_chattab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_chattab_chattab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_newbed_newbed.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_newbed_newbed.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_outdent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_outdent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_filter_filter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_filter_filter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_keypadicon_keypadicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_keypadicon_keypadicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rocketup_rocketup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rocketup_rocketup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_link.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_link.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_retalors_retalors.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_retalors_retalors.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_downcircle_downcircle.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_downcircle_downcircle.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rocketround_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rocketround_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_phoneincoming_phoneincoming.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_phoneincoming_phoneincoming.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_timeline_timeline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_timeline_timeline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_blockquote.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_blockquote.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_ol.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_ol.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_calenderminus_calenderminus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_calenderminus_calenderminus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_timeline_timeline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_timeline_timeline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_eyeglass_eyeglass.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_eyeglass_eyeglass.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_profilepic_profilepic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_profilepic_profilepic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_sendhorizontal_sendhorizotal.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_sendhorizontal_sendhorizotal.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_chat_chat.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_chat_chat.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_search_search.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_search_search.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_remove_format.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_remove_format.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_setting_setting.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_setting_setting.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_phonegreen_phonegreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_phonegreen_phonegreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_message_message.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_message_message.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_pencilborder_pencilborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_pencilborder_pencilborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_outdent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_outdent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_adduser_adduser.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_adduser_adduser.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_datecalender_datecalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_datecalender_datecalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_wave_wave.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_wave_wave.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_selfsourced_selfsourced.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_selfsourced_selfsourced.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_arrowup_arrowup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_arrowup_arrowup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_contacts_contacts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_contacts_contacts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_chattab_chattab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_chattab_chattab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_inbox_inbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_inbox_inbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_italic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_italic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_deletered_deletered.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_deletered_deletered.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_send_send.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_send_send.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_thumbsup_thumbsup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_thumbsup_thumbsup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_bath_bath.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_bath_bath.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rocket_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rocket_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_inbox_inbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_inbox_inbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_penciledit_penciledit.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_penciledit_penciledit.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_recents_recents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_recents_recents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_clock_clock.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_clock_clock.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_recents_recents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_recents_recents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_website_website.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_website_website.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_ul.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_ul.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_emailopen_emailopen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_emailopen_emailopen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_bluedocumnet_bluedocumnet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_bluedocumnet_bluedocumnet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_speaker_speaker.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_speaker_speaker.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_backspace_backspace.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_backspace_backspace.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_info_info.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_info_info.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_justify_center.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_justify_center.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_keyboard.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_keyboard.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_chat_chat.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_chat_chat.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_undo_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_undo_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_callcenter_callcenter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_callcenter_callcenter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_bluetag_bluetag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_bluetag_bluetag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_blockquote.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_blockquote.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_voicemail_voicemail.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_voicemail_voicemail.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_addgray_addgray.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_addgray_addgray.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_dropdown_dropdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_dropdown_dropdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_justify_right.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_justify_right.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_messgblue_messgblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_messgblue_messgblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_undo_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_undo_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_dropdown_dropdown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_dropdown_dropdown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_bold.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_bold.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_underline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_underline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_underline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_underline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_calenderminus_calenderminus.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_calenderminus_calenderminus.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_attachment_attachment.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_attachment_attachment.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_video_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_video_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_replyarrow_replyarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_replyarrow_replyarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_tickround_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_tickround_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_bluetag_bluetag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_bluetag_bluetag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_needlecustom_needlecustom.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_needlecustom_needlecustom.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable_rn_edit_text_material.xml.flat",
+        "source": "surf.lokal.crm.app-main-44:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_rookiealone_rookiealone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_rookiealone_rookiealone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_rocketup_rocketup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_rocketup_rocketup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_chat_chat.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_chat_chat.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_arrowup_arrowup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_arrowup_arrowup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_keyboard.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_keyboard.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_adduser_adduser.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_adduser_adduser.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_add_add.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_add_add.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_calenderproperty_calenderproperty.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_calenderproperty_calenderproperty.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_pulse_pulse.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_pulse_pulse.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_eyeglass_eyeglass.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_eyeglass_eyeglass.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_properties_properties.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_properties_properties.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_italic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_italic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_website_website.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_website_website.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_agents_agents.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_agents_agents.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_updown_updown.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_updown_updown.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_chain_chain.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_chain_chain.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_bluedocumnet_bluedocumnet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_bluedocumnet_bluedocumnet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_pencil_pencil.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_pencil_pencil.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_replyarrow_replyarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_replyarrow_replyarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_justify_full.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_justify_full.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_tickshadow_tickshadow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_tickshadow_tickshadow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_callblue_callblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_callblue_callblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_contacts_contacts.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_contacts_contacts.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_website_website.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_website_website.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_send_send.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_send_send.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_poweroff_poweroff.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_poweroff_poweroff.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_uncheck_uncheck.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_uncheck_uncheck.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_home_home.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_home_home.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_video_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_video_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_bluedocumnet_bluedocumnet.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_bluedocumnet_bluedocumnet.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_dollarhome_dollarhome.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_dollarhome_dollarhome.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_arrowup_arrowup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_arrowup_arrowup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_emailtemplate_emailtemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_emailtemplate_emailtemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_home_home.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_home_home.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_link.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_link.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_trash_trash.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_trash_trash.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_building_building.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_building_building.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_folder_folder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_folder_folder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rocketmoney_rocketmoney.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rocketmoney_rocketmoney.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_uncheck_uncheck.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_uncheck_uncheck.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_callcenter_callcenter.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_callcenter_callcenter.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_calendarwhite_calendarwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_calendarwhite_calendarwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rocket_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rocket_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_backspace_backspace.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_backspace_backspace.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_rookiealone_rookiealone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_rookiealone_rookiealone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_phone_phone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_phone_phone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_bold.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_bold.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_fontsize.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_fontsize.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_video_video.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_video_video.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_tag_tag.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_tag_tag.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_retalors_retalors.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_retalors_retalors.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_brush_brush.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_brush_brush.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_vediogreen_vediogreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_vediogreen_vediogreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_videoround_videoround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_videoround_videoround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_rookie_rookie.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_rookie_rookie.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_telephone_telephone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_telephone_telephone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_outdent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_outdent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_pulse_pulse.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_pulse_pulse.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_pencilborder_pencilborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_pencilborder_pencilborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_image.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_image.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_monthcalender_monthcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_monthcalender_monthcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_needlecustom_needlecustom.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_needlecustom_needlecustom.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_phoneincoming_phoneincoming.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_phoneincoming_phoneincoming.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_justify_right.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_justify_right.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_weekcalender_weekcalender.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_weekcalender_weekcalender.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_phonegreen_phonegreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_phonegreen_phonegreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_alarm_alarm.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_alarm_alarm.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_phone_phone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_phone_phone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_menuicon_menuicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_menuicon_menuicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_usersround_usersround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_usersround_usersround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_deletered_deletered.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_deletered_deletered.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_alarm_alarm.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_alarm_alarm.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_mic_mic.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_mic_mic.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_redo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_redo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_rocket_rocket.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_rocket_rocket.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_transactiondesk_transactiondesk.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_transactiondesk_transactiondesk.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_hoas_hoas.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_hoas_hoas.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_downcircle_downcircle.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_downcircle_downcircle.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_replyallarrow_replyallarrow.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_replyallarrow_replyallarrow.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_videoround_videoround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_videoround_videoround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "surf.lokal.crm.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_close_close.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_close_close.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_documentup_documentup.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_documentup_documentup.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_justify_left.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_justify_left.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_transactiondesk_transactiondesk.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_transactiondesk_transactiondesk.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_tickcircle_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_tickcircle_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_inbox_inbox.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_inbox_inbox.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_fontsize.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_fontsize.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_opportunities_opportunities.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_opportunities_opportunities.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_brush_brush.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_brush_brush.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_texttemplate_texttemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_texttemplate_texttemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_arrowdownborder_arrowdownborder.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_arrowdownborder_arrowdownborder.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_surf_surf.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_surf_surf.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_info_info.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_info_info.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_justify_full.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_justify_full.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_phonetab_phonetab.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_phonetab_phonetab.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_tickround_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_tickround_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_tickround_tickround.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_tickround_tickround.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_mailblack_mailblack.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_mailblack_mailblack.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_dollarhome_dollarhome.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_dollarhome_dollarhome.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_subscript.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_subscript.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_taxdoc_taxdoc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_taxdoc_taxdoc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_phoneincoming_phoneincoming.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_phoneincoming_phoneincoming.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_dochome_doc.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_dochome_doc.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_menuicon_menuicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_menuicon_menuicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_mailblack_mailblack.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_mailblack_mailblack.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_notificationwhite_notificationwhite.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_notificationwhite_notificationwhite.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnativepellricheditor_img_line.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/node_modules_reactnativepellricheditor_img_line.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_messgblue_messgblue.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_messgblue_messgblue.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_emailtemplate_emailtemplate.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_emailtemplate_emailtemplate.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_sms_sms.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_sms_sms.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_needlecustom_needlecustom.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_needlecustom_needlecustom.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_brush_brush.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_brush_brush.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_landline_landline.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_landline_landline.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_opportunities_opportunities.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_opportunities_opportunities.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_justify_center.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_justify_center.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_remove_format.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_remove_format.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_close_close.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_close_close.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_blockquote.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_blockquote.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_addgray_addgray.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_addgray_addgray.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_indent.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_indent.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_properties_properties.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_properties_properties.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_ol.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_ol.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_src_assets_phonegreen_phonegreen.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/src_assets_phonegreen_phonegreen.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_node_modules_reactnativepellricheditor_img_undo.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/node_modules_reactnativepellricheditor_img_undo.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-mdpi_src_assets_messageicon_messageicon.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-mdpi/src_assets_messageicon_messageicon.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_phone_phone.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_phone_phone.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xhdpi_node_modules_reactnativepellricheditor_img_link.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xhdpi/node_modules_reactnativepellricheditor_img_link.png"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-43:/drawable-xxhdpi_src_assets_measuringtape_measuringtape.png.flat",
+        "source": "surf.lokal.crm.app-res-36:/drawable-xxhdpi/src_assets_measuringtape_measuringtape.png"
+    }
+]

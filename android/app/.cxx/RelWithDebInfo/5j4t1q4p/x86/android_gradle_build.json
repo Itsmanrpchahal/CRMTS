@@ -1,0 +1,208 @@
+{
+  "buildFiles": [
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dev/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/.cxx/RelWithDebInfo/5j4t1q4p/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dev/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/.cxx/RelWithDebInfo/5j4t1q4p/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "appmodules",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/fabricjni/libs/android.x86/libfabricjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_newarchdefaults/libs/android.x86/libreact_newarchdefaults.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_componentregistry/libs/android.x86/libreact_render_componentregistry.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_legacyviewmanagerinterop/libs/android.x86/librrc_legacyviewmanagerinterop.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/runtimeexecutor/libs/android.x86/libruntimeexecutor.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rnasyncstorage.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rngesturehandler_codegen.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_safeareacontext.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rnscreens.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_RNVectorIconsSpec.so",
+        "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_RNCWebViewSpec.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_mapbuffer/libs/android.x86/libreact_render_mapbuffer.so",
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNCWebViewSpec",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_RNCWebViewSpec.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_RNVectorIconsSpec.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnasyncstorage",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rnasyncstorage.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rngesturehandler_codegen.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_mapbuffer/libs/android.x86/libreact_render_mapbuffer.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Users/dev/Documents/GitHub/CRM-TS/CRM/android/app/build/intermediates/cxx/RelWithDebInfo/5j4t1q4p/obj/x86/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/dev/.gradle/caches/transforms-3/1f270319c1822ad5cabdce3576db51bd/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/react_render_mapbuffer/libs/android.x86/libreact_render_mapbuffer.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/dev/.gradle/caches/transforms-3/723cc84a69798a2f8e207035fd16b91f/transformed/jetified-react-android-0.72.4-release/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/dev/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/dev/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

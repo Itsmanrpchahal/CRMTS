@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../../../../CRM-TS/CRM/android/app/release/output-metadata.json

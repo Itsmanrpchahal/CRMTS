@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "surf.lokal.crm.app-mergeReleaseResources-41:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/dev/.gradle/caches/transforms-3/7124723b0dbedae13d12a9a06c11547a/transformed/material-1.4.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

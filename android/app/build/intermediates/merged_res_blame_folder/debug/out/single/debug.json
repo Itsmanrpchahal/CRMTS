@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/layout_new_app_widget.xml.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/layout/new_app_widget.xml"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/xml_new_app_widget_info.xml.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/xml/new_app_widget_info.xml"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/drawable-v21/app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/drawable-v21_app_widget_background.xml.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/drawable-v21/app_widget_background.xml"
+    },
+    {
+        "merged": "surf.lokal.crm.app-merged_res-45:/layout_new_app_widget.xml.flat",
+        "source": "surf.lokal.crm.app-main-47:/layout/new_app_widget.xml"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/drawable-nodpi/example_appwidget_preview.png"
+    },
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

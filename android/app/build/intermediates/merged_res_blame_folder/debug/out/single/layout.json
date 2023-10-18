@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-mergeDebugResources-44:/layout/new_app_widget.xml",
+        "source": "/Users/dev/.gradle/daemon/8.0.1/surf.lokal.crm.app-main-47:/layout/new_app_widget.xml"
+    },
+    {
+        "merged": "surf.lokal.crm.app-mergeDebugResources-44:/layout/new_app_widget.xml",
+        "source": "surf.lokal.crm.app-main-47:/layout/new_app_widget.xml"
+    }
+]
